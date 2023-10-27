@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.container{
+    width: 100%;
+}
+/* .mainbg1{
+    width: 100%;
+    
+} */
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+.mainbg{
+    background-image: url("./assets/kw-background.png");
+    background-size: cover;
+    background-position: center;
+    
+    height: 500px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 80px;
+    margin-bottom: 150px;
+}
+.mainbgtext{
+    margin-left: 70px;
+    padding-top: 60px;
+}
+.new{
+font-size: 25px;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.books1div{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 150px;
+    
+}
+.cartbye{
+    background-color: #6196FF;
+    color: white;
+    padding: 2px;
+    border-radius: 3px;
+}
+.pricebook{
+    display: flex;
+    justify-content: space-between;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.TEXT{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Ryan{
+    color: grey;
+    font-size: 13px;
+}
+.gamesdiv2{
+    /* margin-top: 100px; */
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 150px;
+}
+.handmade{
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 100px; */
+    margin-bottom: 150px;
+}
+.Krishti{
+    border-radius: 50%;
+    height: 150px;
+    margin-left: 60px;
+    
+}
+.foot{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    
+    margin-top: 100px;
+}
+.em{
+    margin-top: 60px;
+    margin-right: 60px;
+    text-align: right;
+}
+.kr{
+    margin-left: 60px;
+    font-size: 20px;
+    
+}
+h1{
+    margin-left: 50px;
+}
